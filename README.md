@@ -12,4 +12,40 @@
                 <li>wydawanie reszty metodą zachłanną,</li>
             </ul>
     </li>
+    <li>
+        algorytmy wyszukiwania i porządkowania (sortowania):
+            <ul>
+                <li>bąbelkowy,</li>
+                <li>przez wybór,</li>
+                <li>przez wstawianie liniowe,</li>
+                <li>przez scalanie, # przydałoby się lepsze rozwiązanie</li>
+                <li>szybki,</li>
+                <li>kubełkowy, # przydałoby się lepsze rozwiązanie</li>
+            </ul>
+    </li>
+    <li>
+        algorytmy numeryczne
+            <ul>
+                    <li> podnoszenie do potęgi,</li>
+                    <li>wyznaczanie miejsc zerowych funkcji metodą połowienia,</li>
+            </ul>
+    </li>
+    <li>
+        algorytmy na tekstach
+            <ul>
+                <li>sprawdzanie, czy dany ciąg znaków tworzy palindrom,</li>
+                <li>sprawdzanie, czy dany ciąg znaków tworzy anagram,</li>
+                <li>porządkowanie alfabetyczne,</li>
+                <li>wyszukiwanie wzorca w tekście,</li>
+            </ul>
+    </li>
+    <li>
+        algorytmy kompresji i szyfrowania
+                <ul>
+                    <li>kompresja danych</li>
+                    <li>alfabet Morse’a</li>
+                    <li>szyfr Cezara,</li>
+                    <li>szyfr przestawieniowy,</li>
+                </ul>
+    </li>
 </ol>
