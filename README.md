@@ -15,7 +15,7 @@
     <li>
         algorytmy wyszukiwania i porządkowania (sortowania):
             <ul>
-                <li>bąbelkowy,</li>
+                <li>bąbelkowy,  	&#10004;</li>
                 <li>przez wybór,</li>
                 <li>przez wstawianie liniowe,</li>
                 <li>przez scalanie, # przydałoby się lepsze rozwiązanie</li>
